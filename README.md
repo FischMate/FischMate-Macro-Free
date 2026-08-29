@@ -6,9 +6,10 @@ Noiseform, Darkheart, and Pinion's Aria are marked **Coming Soon** and cannot be
 
 ## Start
 
-1. Double-click `FischMate.vbs`. On the first launch, FischMate will offer to run its one-time script-based setup automatically.
-2. Pick your rod and Roblox window, then click **Start Fishing**.
-3. Press **P** inside Roblox to begin. Press **M** at any time to stop and release all inputs.
+1. Double-click `Setup FischMate.vbs`. This will automatically download all the necessary libraries listed in the requirements.txt
+2. Open `FischMate.vbs`
+3. Pick your rod and Roblox window, then click **Start Fishing**.
+4. Press **P** inside Roblox to begin. Spam **M** at any time to stop and release all inputs.
 
 You can run `Create FischMate Shortcut.vbs` once if you want a local `FischMate.lnk` shortcut generated for this copy.
 
