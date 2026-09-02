@@ -2,6 +2,8 @@
 
 FischMate Macro Free version includes rods that use the standard fishing mechanics and standard visual colors. Rods that require special colors, custom detection, or unique mechanics are shown in the rod picker with a crown and are available with **FischMate Full Access** at FischMate.com.
 
+Every version of FischMate is source-available, so you can read the code before you ever run it. FischMate does not include any .exe files that secretly download or install programs on your computer.
+
 ## Start
 
 1. Double-click `Setup FischMate.vbs`. This will automatically download the necessary Python libraries listed in `requirements.txt`.
