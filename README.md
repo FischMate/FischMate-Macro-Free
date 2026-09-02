@@ -1,6 +1,6 @@
 # FischMate Macro Free
 
-FischMate Free includes rods that use the standard fishing mechanics and standard visual colors. Rods that require special colors, custom detection, or unique mechanics are shown in the rod picker with a crown and are available with **FischMate Full Access** at FischMate.com.
+FischMate Macro Free version includes rods that use the standard fishing mechanics and standard visual colors. Rods that require special colors, custom detection, or unique mechanics are shown in the rod picker with a crown and are available with **FischMate Full Access** at FischMate.com.
 
 ## Start
 
