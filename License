@@ -1,0 +1,312 @@
+FischMate Source-Available License
+
+Copyright © 2026 FischMate. All rights reserved.
+
+IMPORTANT: FischMate is NOT open-source software.
+
+FischMate is distributed in readable source/script form, including Python, VBScript, configuration, and related files. The fact that these files can be opened, read, inspected, executed, or modified does not place FischMate in the public domain and does not grant permission to redistribute, republish, relicense, sell, sublicense, or otherwise distribute the software.
+
+This License governs the use of FischMate unless the applicable rights holder has expressly granted different permissions in writing.
+
+1. DEFINITIONS
+
+"FischMate" means the FischMate software and its original materials, including its source code, scripts, configuration files, documentation, user-interface assets, graphics, branding, and other original files distributed as part of the FischMate project.
+
+"Licensor" means the copyright holder or other authorized rights holder of FischMate.
+
+"You" means any individual or legal entity exercising rights granted under this License.
+
+"Modified Version" means any version of FischMate that has been altered, adapted, translated, reorganized, compiled, obfuscated, repackaged, extended, reduced, or otherwise modified.
+
+"Distribution" means providing, publishing, uploading, transmitting, hosting, sharing, selling, sublicensing, or otherwise making FischMate or a copy of FischMate available to another person or entity.
+
+2. OWNERSHIP
+
+FischMate is licensed, not sold.
+
+Except for third-party materials identified as such, FischMate and its original source code, scripts, documentation, branding, graphical assets, configuration files, and other original materials remain the intellectual property of their respective rights holders.
+
+Downloading, accessing, viewing, running, inspecting, or modifying FischMate does not transfer ownership of FischMate or any related intellectual-property rights to You.
+
+All rights not expressly granted under this License are reserved.
+
+3. LIMITED LICENSE GRANT
+
+Subject to compliance with this License, the Licensor grants You a limited, non-exclusive, non-transferable, non-sublicensable license to:
+
+a. Download an authorized copy of FischMate;
+
+b. Use FischMate for personal use;
+
+c. Open, read, and inspect FischMate's source and script files;
+
+d. Review FischMate's code for transparency, security, compatibility, educational, or troubleshooting purposes; and
+
+e. Modify Your own authorized local copy of FischMate for private personal use.
+
+No other rights are granted except those expressly stated in this License or separately granted by the Licensor in writing.
+
+4. SOURCE AVAILABILITY
+
+FischMate is distributed in readable source/script form because those files are used directly by the software.
+
+Access to readable source code does NOT mean that FischMate is open-source software.
+
+The ability to access, view, inspect, download, execute, or privately modify FischMate's source files does not grant You permission to redistribute those files.
+
+No open-source license, public-domain dedication, redistribution right, sublicensing right, or right to create publicly distributed derivative versions should be inferred merely because FischMate's source code is visible or accessible.
+
+5. REDISTRIBUTION IS PROHIBITED
+
+Unless You have received prior express written permission from the Licensor, You may NOT:
+
+a. Redistribute FischMate in whole or in substantial part;
+
+b. Reupload, republish, mirror, host, share, or otherwise make copies of FischMate available to third parties;
+
+c. Upload FischMate or substantial portions of FischMate to another GitHub repository, GitLab repository, website, file-hosting service, cloud-storage service, software archive, Discord server, marketplace, or other distribution platform;
+
+d. Distribute Modified Versions of FischMate;
+
+e. Create and distribute forks of FischMate;
+
+f. Repackage FischMate under another product, project, developer, organization, or brand name;
+
+g. Bundle FischMate with another free or paid product for Distribution;
+
+h. Provide FischMate as part of another software package, installer, launcher, archive, or download;
+
+i. Make FischMate or substantial portions of its original code available to third parties by any other method; or
+
+j. Authorize another person or entity to perform any of the activities prohibited by this License.
+
+6. PRIVATE MODIFICATIONS
+
+You may modify Your own authorized local copy of FischMate for private personal use.
+
+Permission to privately modify FischMate does NOT grant permission to publish, upload, share, sublicense, sell, or otherwise distribute the Modified Version.
+
+A Modified Version containing FischMate's original copyrighted material remains subject to the restrictions of this License.
+
+Changing FischMate's:
+
+* filenames;
+* directory structure;
+* variable names;
+* programming language;
+* formatting;
+* user interface;
+* configuration;
+* branding;
+* features;
+* packaging;
+* compilation format;
+* source-code organization; or
+* other technical characteristics
+
+does not, by itself, create a right to redistribute the resulting work.
+
+7. COPYING INTO OTHER PROJECTS
+
+Unless You have received prior express written permission from the Licensor, You may not copy, extract, incorporate, adapt, or reuse substantial portions of FischMate's original source code or other original protected material in another software project that is distributed to third parties.
+
+This restriction applies regardless of whether the resulting project is distributed:
+
+* for free;
+* for payment;
+* as open-source software;
+* as source-available software;
+* as proprietary software;
+* as source code;
+* as compiled software; or
+* through any other distribution method.
+
+Nothing in this section is intended to restrict any right that applicable law does not permit the Licensor to restrict.
+
+8. COMMERCIAL DISTRIBUTION AND RESALE
+
+Unless You have received prior express written permission from the Licensor, You may NOT:
+
+a. Sell FischMate;
+
+b. Resell copies of FischMate;
+
+c. License or sublicense FischMate;
+
+d. Rent or lease FischMate;
+
+e. Charge third parties specifically for access to an unauthorized copy of FischMate;
+
+f. Commercially distribute FischMate;
+
+g. Commercially distribute a Modified Version of FischMate;
+
+h. Include FischMate in another commercial software package for Distribution; or
+
+i. Operate a business or service whose product includes unauthorized Distribution of FischMate or substantial portions of FischMate.
+
+9. COMPILATION, OBFUSCATION, AND REPACKAGING
+
+The restrictions in this License cannot be avoided merely by changing the technical form in which FischMate is distributed.
+
+Unless expressly authorized in writing, You may not redistribute FischMate by:
+
+a. Compiling the source code into an executable;
+
+b. Converting the source code into another programming language;
+
+c. Obfuscating, minifying, encrypting, or otherwise transforming the source code;
+
+d. Packaging FischMate into another installer, launcher, archive, executable, application, or software package;
+
+e. Embedding substantial portions of FischMate into another application;
+
+f. Renaming FischMate or its files before Distribution; or
+
+g. Making other technical changes intended to create or disguise a separately distributed copy or derivative version.
+
+Rights applicable to FischMate's original protected material are not waived merely because that material has been modified, transformed, compiled, converted, renamed, obfuscated, or repackaged.
+
+10. ATTRIBUTION AND OWNERSHIP NOTICES
+
+You may not remove, conceal, falsify, or materially alter any:
+
+* copyright notice;
+* license notice;
+* attribution notice;
+* ownership notice;
+* authorship information; or
+* other intellectual-property notice
+
+included with FischMate.
+
+You may not falsely represent FischMate, its original source code, or substantial portions of its original materials as having been created by You or another unauthorized party.
+
+11. NAME, BRANDING, AND IMPERSONATION
+
+This License does not grant You ownership of, or any general license to use, the FischMate name, logos, branding, graphical assets, or other identifying materials.
+
+You may not use FischMate's name, branding, or identifying materials in a manner that falsely suggests that an unauthorized copy, fork, Modified Version, website, repository, download, or distribution is:
+
+* official;
+* authorized;
+* approved;
+* sponsored;
+* endorsed; or
+* maintained
+
+by FischMate or the Licensor.
+
+Nothing in this License grants trademark rights except as expressly authorized in writing.
+
+12. THIRD-PARTY SOFTWARE AND DEPENDENCIES
+
+FischMate may use, include, depend upon, download, or interact with third-party software, libraries, packages, APIs, services, assets, or other components.
+
+Third-party materials remain subject to their respective copyright notices, licenses, and terms.
+
+This License applies only to material for which the FischMate rights holder has authority to grant rights.
+
+Nothing in this License is intended to reduce, override, or restrict rights independently granted to You under the license applicable to a third-party component.
+
+Likewise, the presence of third-party or open-source components within or alongside FischMate does not grant additional rights to FischMate's original proprietary material.
+
+13. NO IMPLIED LICENSE
+
+No rights are granted by implication, estoppel, availability of source code, publication on a public repository, or otherwise, except for rights expressly granted by this License or required by applicable law.
+
+In particular, public availability of a FischMate repository does not, by itself, constitute permission to redistribute, fork for Distribution, sublicense, resell, or republish FischMate.
+
+14. UNAUTHORIZED DISTRIBUTION
+
+Unauthorized copying, publication, redistribution, resale, sublicensing, or other Distribution of FischMate may constitute a violation of this License and may also constitute copyright infringement or a violation of other applicable intellectual-property laws.
+
+The Licensor reserves the right to pursue remedies available under applicable law in response to unauthorized copying, Distribution, resale, impersonation, deceptive repackaging, or other unauthorized use of protected FischMate material.
+
+15. TERMINATION
+
+Any rights granted to You under this License automatically terminate if You materially violate its terms.
+
+Upon termination, You must cease any activity that was authorized solely through this License.
+
+Termination does not eliminate obligations, liabilities, claims, or remedies that arose before termination.
+
+The Licensor may restore some or all terminated permissions through express written authorization.
+
+16. NO WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, FISCHMATE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY.
+
+THE LICENSOR MAKES NO GUARANTEE THAT FISCHMATE WILL BE:
+
+* ERROR-FREE;
+* UNINTERRUPTED;
+* SECURE;
+* COMPATIBLE WITH EVERY COMPUTER, OPERATING SYSTEM, APPLICATION, OR SOFTWARE CONFIGURATION;
+* AVAILABLE INDEFINITELY;
+* FREE FROM DEFECTS; OR
+* SUITABLE FOR ANY PARTICULAR PURPOSE.
+
+YOU USE FISCHMATE AT YOUR OWN DISCRETION AND RISK.
+
+17. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING FROM OR RELATING TO THE USE OF, MISUSE OF, OR INABILITY TO USE FISCHMATE.
+
+THIS INCLUDES, TO THE EXTENT PERMITTED BY LAW, LOSS OF DATA, LOSS OF PROFITS, LOSS OF ACCESS, INTERRUPTION OF SERVICE, SOFTWARE OR HARDWARE DAMAGE, ACCOUNT-RELATED CONSEQUENCES, OR OTHER LOSSES ARISING FROM USE OF THE SOFTWARE.
+
+Nothing in this License excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
+
+18. NO AFFILIATION
+
+FischMate is an independent project.
+
+Unless expressly stated otherwise, FischMate is not affiliated with, sponsored by, endorsed by, authorized by, or operated by Roblox Corporation or by the developers, publishers, owners, or operators of any game or service with which FischMate may interact.
+
+All third-party trademarks, service marks, game names, company names, logos, and other intellectual property remain the property of their respective owners.
+
+19. ADDITIONAL PERMISSIONS
+
+The Licensor may grant additional permissions, exceptions, commercial rights, redistribution rights, or other rights through a separate written agreement or written authorization.
+
+Any such additional permission applies only to the person or entity to whom it is granted and only within the scope expressly stated by the Licensor.
+
+Permission granted to one person or entity does not grant the same permission to any other person or entity.
+
+20. SEVERABILITY
+
+If any provision of this License is found to be invalid, unlawful, or unenforceable under applicable law, that provision shall be interpreted or limited to the minimum extent necessary to make it enforceable where possible.
+
+If it cannot be made enforceable, that provision shall be severed without invalidating the remaining provisions of this License.
+
+The remaining provisions shall continue in effect to the maximum extent permitted by applicable law.
+
+21. NO WAIVER
+
+Failure by the Licensor to enforce any provision of this License in a particular instance does not constitute a permanent waiver of that provision or of the Licensor's right to enforce it in the future.
+
+A waiver is effective only when expressly made by the Licensor.
+
+22. APPLICABLE LAW
+
+Nothing in this License is intended to restrict rights that applicable law does not permit the Licensor to restrict.
+
+Mandatory legal rights, statutory exceptions, and other rights that cannot lawfully be waived or restricted remain unaffected.
+
+23. ENTIRE LICENSE
+
+This License constitutes the terms under which the Licensor grants the permissions expressly described above, unless a separate written agreement between the Licensor and You states otherwise.
+
+No additional right should be inferred merely because FischMate or its source files are publicly accessible.
+
+24. IMPORTANT CLARIFICATION
+
+READABLE SOURCE CODE DOES NOT MEAN OPEN-SOURCE SOFTWARE.
+
+FischMate is distributed using readable Python, VBScript, configuration, and related files so that the software can run directly and so its behavior can be inspected.
+
+Unless FischMate or a specific component is separately released under another license, no permission to redistribute, republish, fork for Distribution, sublicense, resell, or commercially distribute FischMate should be inferred merely because its source files can be viewed or accessed.
+
+All rights not expressly granted are reserved.
+
+Copyright © 2026 FischMate. All rights reserved.
