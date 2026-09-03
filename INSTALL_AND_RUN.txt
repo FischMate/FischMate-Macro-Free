@@ -1,0 +1,24 @@
+FischMate Macro - Free
+
+How to install and run
+
+1. Extract this folder from the zip file.
+2. Open Command Prompt in this folder.
+3. Run: python -m venv .venv
+4. Run: .venv\Scripts\python -m pip install -r requirements.txt
+5. Double-click FischMate.vbs.
+6. Open Roblox and join Fisch.
+7. Pick your rod profile and Roblox window.
+8. Click Start Fishing.
+9. Click the Roblox window and press P to start.
+10. Press M any time to emergency stop.
+
+Quick launch
+
+- Use FischMate.vbs whenever you want to open the macro.
+- It launches without a console and shows a clear message if setup is incomplete.
+
+Notes
+
+- Default-color/default-mechanics rods are ready to use. Full Access rods remain visible with a crown and open a clear upgrade message.
+- Do not run the macro as administrator unless Roblox is also running as administrator.

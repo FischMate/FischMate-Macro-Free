@@ -1,0 +1,6 @@
+numpy>=2.0
+opencv-python>=4.10
+dxcam>=0.0.5
+mss>=10.0
+PyYAML>=6.0
+

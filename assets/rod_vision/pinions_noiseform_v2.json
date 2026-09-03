@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "allowed_detector_ids": [
+    "pinions_aria",
+    "noiseform"
+  ],
+  "classes": [
+    "bar",
+    "stick",
+    "note",
+    "cue",
+    "tile"
+  ],
+  "input_width": 960,
+  "input_height": 544,
+  "output_stride": 8
+}
