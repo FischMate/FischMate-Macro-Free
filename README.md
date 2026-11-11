@@ -41,20 +41,3 @@ FischMate bundles the official Inter 4.1 Regular, Medium, SemiBold, and Bold
 desktop faces and registers them privately for the running process. Users do not
 need to install fonts system-wide. Inter is distributed under the SIL Open Font
 License; its license is included at `assets/fonts/inter/LICENSE.txt`.
-
-## Profiles
-
-Profiles live in `profiles/<name>/profile.yaml`. The initial profile files use
-JSON syntax, which is also valid YAML 1.2. This keeps the project runnable with
-the Python standard library; if PyYAML is installed, conventional YAML syntax is
-accepted too.
-
-Profiles may inherit another profile with `"extends": "standard"`. The loader
-deep-merges dictionaries, validates required fields, and rejects unknown
-mechanics.
-
-Legacy V13 INI configuration data can be converted reproducibly with
-`python tools/import_v13_profiles.py <v13-folder>`. Ordinary calibrations become
-selectable profiles. Configurations that declare behavior FischMate has not yet
-implemented are retained under `profiles/development/imported` and do not appear
-in the public picker.
